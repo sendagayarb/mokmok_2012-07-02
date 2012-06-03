@@ -19,5 +19,11 @@ mokmok_yyyy-mm-dd
 * 21:30 終了
 * 22:00 撤収(渋谷・原宿方面の方はウォーキング組あり)
 
+# 参加者
+- ppworks[すたっふぅー]
+  - ポジションペーパー:http://ppworks.info
+- fukajun[すたっふぅー]
+  - ポジションペーパー:http://kitbc.s41.xrea.com/main/
+
 # KPT
 http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
