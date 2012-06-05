@@ -24,5 +24,9 @@ mokmok_yyyy-mm-dd
 * fukajun[すたっふぅー]
   * ポジションペーパー:http://kitbc.s41.xrea.com/main/
 
+# 質問したいこと
+- 例)業務でこんなことやるんだけど誰か知ってる？
+
+
 # KPT
 * http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
