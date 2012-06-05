@@ -6,9 +6,8 @@ mokmok_yyyy-mm-dd
 みんなで集まって、各自自分が勉強したいものとか、作りたいものをやりましょう！
 毎回はじまる30分前にheroku devcenterの読書会もしようと思ってます。
 
-# 告知
-* [facebookグループ](https://www.facebook.com/groups/132324356892674)
-* [Sendagaya.rb #](http://www.zusaar.com/event/)
+* [Sendagaya.rb公式サイト](http://sendagayarb.github.com)
+* [Sendagaya.rb # - Zussar](http://www.zusaar.com/event/)
 
 # 流れ
 * 19:00 Heroku Dev Center読書会
@@ -20,10 +19,10 @@ mokmok_yyyy-mm-dd
 * 22:00 撤収(渋谷・原宿方面の方はウォーキング組あり)
 
 # 参加者
-- ppworks[すたっふぅー]
-  - ポジションペーパー:http://ppworks.info
-- fukajun[すたっふぅー]
-  - ポジションペーパー:http://kitbc.s41.xrea.com/main/
+* ppworks[すたっふぅー]
+  * ポジションペーパー:http://ppworks.info
+* fukajun[すたっふぅー]
+  * ポジションペーパー:http://kitbc.s41.xrea.com/main/
 
 # KPT
-http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
+* http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
