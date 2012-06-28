@@ -1,4 +1,4 @@
-mokmok_yyyy-mm-dd
+mokmok_2012-07-02
 =================
 
 ![sendagaya.rb logo](http://ppworks.info/images/sendagayarb100x100.png)
