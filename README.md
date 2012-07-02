@@ -33,5 +33,5 @@ mokmok_2012-07-02
 # KPT
 * http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
 
-# toggeter
-* http://togetter.com/
+# togetter
+* http://togetter.com/li/331065
