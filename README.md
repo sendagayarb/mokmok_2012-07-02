@@ -7,7 +7,7 @@ mokmok_2012-07-02
 毎回はじまる30分前にheroku devcenterの読書会もしようと思ってます。
 
 * [Sendagaya.rb公式サイト](http://sendagayarb.github.com)
-* [Sendagaya.rb # - Zussar](http://www.zusaar.com/event/)
+* [Sendagaya.rb #10 - Zussar](http://www.zusaar.com/event/328106)
 
 # 流れ
 * 19:00 Heroku Dev Center読書会
