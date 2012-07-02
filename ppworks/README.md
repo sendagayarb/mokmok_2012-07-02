@@ -4,5 +4,6 @@
 ** https://github.com/herokaijp/devcenter/wiki/scheduled-jobs-custom-clock-processes
 
 * git-dojo
+** [昔話したgitの話](http://ppworks.hatenablog.jp/entry/2012/04/16/013558)
 
 # もくもくの記録（実績）
